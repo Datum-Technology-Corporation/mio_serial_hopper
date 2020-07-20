@@ -1,2 +1,2 @@
-# Moore.io Hopper Template
-Moore.io's Hopper Repository Template
+# Moore.io Serial Protocol Hopper
+Moore.io's hopper of Serial Protocol IP, VIP & Script packages.
