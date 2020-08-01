@@ -1,2 +1,2 @@
-# Moore.io Serial Protocol Hopper
-Moore.io's hopper of Serial Protocol IP, VIP & Script packages.
+# Moore.io Serial Protocol Project
+Moore.io's collection of Serial Protocol IP, VIP & Script packages.
